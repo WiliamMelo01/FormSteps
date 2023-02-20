@@ -1,5 +1,5 @@
 import React from 'react';
-import ThankYou from '../assets/images/icon-thank-you.svg';
+import ThankYou from '../assets/images/icon-thank-you.webp';
 import Heading from './Heading';
 import Paragraph from './Paragraph';
 

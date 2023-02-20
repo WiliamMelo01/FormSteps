@@ -25,8 +25,8 @@ module.exports = {
       }
     },
     backgroundImage:{
-      'bg-sidebar-desktop':'url("./src/assets/images/bg-sidebar-desktop.svg")',
-      'bg-checkmark':'url("./src/assets/images/icon-checkmark.svg")'
+      'bg-sidebar-desktop':'url("./src/assets/images/bg-sidebar-desktop.webp")',
+      'bg-checkmark':'url("./src/assets/images/icon-checkmark.webp")'
     },
   },
   plugins: [],
