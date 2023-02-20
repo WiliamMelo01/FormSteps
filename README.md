@@ -6,6 +6,7 @@ O site utiliza o conceito de contextos em React para compartilhar informações 
 ## Tecnologias utilizadas
 [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,typescript,redux)](https://skillicons.dev)
 <img src="https://github.com/colinhacks/zod/blob/master/logo.svg" alt="Descrição da Imagem" width="50" height="50" style="border-radius: 20px">
+<img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" alt="Descrição da Imagem" width="50" height="50" style="border-radius: 20px">
 
 
 ## Funcionalidades
