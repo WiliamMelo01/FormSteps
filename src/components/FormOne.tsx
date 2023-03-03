@@ -91,7 +91,7 @@ export default function FormOne() {
 							type="text"
 							id="email"
 							className="w-[80%] h-14 border-neutral-cool-gray border rounded-xl outline-none pl-4 text-primary-marine-blue font-bold placeholder:text-neutral-cool-gray placeholder:font-bold max-[1280px]:w-[100%]"
-							placeholder="e.g Stephenking.lorem.com"
+							placeholder="e.g Stephenking@lorem.com"
 							{...register('email', {
 								required: true,
 							})}
@@ -113,7 +113,7 @@ export default function FormOne() {
 							type="text"
 							id="phone"
 							className="w-[80%] h-14 border-neutral-cool-gray border rounded-xl outline-none pl-4 text-primary-marine-blue font-bold placeholder:text-neutral-cool-gray placeholder:font-bold max-[1280px]:w-[100%]"
-							placeholder="e.g +1 234 567 890"
+							placeholder="e.g +1 123 456 7890"
 							{...register('phone', {
 								required: true,
 							})}
