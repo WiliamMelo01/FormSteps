@@ -10,7 +10,7 @@ export default function BottomButtons() {
 
 	return (
 		<div
-			className="w-[80%] h-14 flex items-center justify-between absolute bottom-0"
+			className="w-[80%] h-14 flex items-center justify-between max-[1280px]:w-[100%] max-[768px]:w-full"
 			style={{
 				justifyContent: step >= 2 ? 'between' : 'end',
 			}}

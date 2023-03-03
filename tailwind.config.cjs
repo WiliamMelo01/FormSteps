@@ -22,11 +22,15 @@ module.exports = {
         'magnolia':'hsl(217, 100%, 97%)',
         'alabaster':'hsl(231, 100%, 99%)',
         'white':'hsl(0, 0%, 100%)',
+      },
+      transparent:{
+        '0':'transparent',
       }
     },
     backgroundImage:{
-      'bg-sidebar-desktop':'url("./src/assets/images/bg-sidebar-desktop.webp")',
-      'bg-checkmark':'url("./src/assets/images/icon-checkmark.webp")'
+      'bg-sidebar-desktop':'url("./assets/images/bg-sidebar-desktop.png")',
+      'bg-checkmark':'url("./assets/images/icon-checkmark.png")',
+      'bg-sidebar-mobile':'url("./assets/images/bg-sidebar-mobile.png")'
     },
   },
   plugins: [],

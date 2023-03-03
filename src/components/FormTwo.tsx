@@ -4,9 +4,9 @@ import CardPlan from './CardPlan';
 import Heading from './Heading';
 import Paragraph from './Paragraph';
 
-import ArcadeImage from '../assets/images/icon-arcade.webp';
-import ProImage from '../assets/images/icon-pro.webp';
-import AdvancedImage from '../assets/images/icon-advanced.webp';
+import ArcadeImage from '../assets/images/icon-arcade.png';
+import ProImage from '../assets/images/icon-pro.png';
+import AdvancedImage from '../assets/images/icon-advanced.png';
 import { useDispatch } from 'react-redux';
 import { formTwoInformations } from '../redux/user.Slice';
 import { stepContext, stepInterface } from '../context/step';

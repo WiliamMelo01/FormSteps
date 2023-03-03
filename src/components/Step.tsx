@@ -21,9 +21,9 @@ export default function Step({ description, step, currentStep }: StepProsps) {
 			>
 				{step}
 			</button>
-			<div className="flex flex-col">
-				<span className="text-neutral-cool-gray uppercase">Step {step}</span>
-				<span className="uppercase text-neutral-white font-bold">
+			<div className="flex flex-col ">
+				<span className="text-neutral-cool-gray uppercase ">Step {step}</span>
+				<span className="uppercase text-neutral-white font-bold ">
 					{description}
 				</span>
 			</div>
